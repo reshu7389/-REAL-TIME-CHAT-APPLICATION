@@ -49,9 +49,10 @@ The user types a message and hits "Send". This triggers a send_message event whi
 
 The server listens for this event and immediately broadcasts the message to all other connected clients using the receive_message event.
 
-#OUTPUT
-
 
 Other clients receive the message in real time, and it appears on their screens without any page refresh.
 
 The application also manages user sessions using Socket.IO socket IDs and handles disconnections gracefully.
+
+#OUTPUT
+\<img width="1909" height="866" alt="Image" src="https://github.com/user-attachments/assets/68070331-c1c7-4921-b486-8ab1a0fedcbe" />
