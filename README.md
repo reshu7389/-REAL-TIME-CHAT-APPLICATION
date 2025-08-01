@@ -55,4 +55,4 @@ Other clients receive the message in real time, and it appears on their screens 
 The application also manages user sessions using Socket.IO socket IDs and handles disconnections gracefully.
 
 #OUTPUT
-\<img width="1909" height="866" alt="Image" src="https://github.com/user-attachments/assets/68070331-c1c7-4921-b486-8ab1a0fedcbe" />
+<img width="1909" height="866" alt="Image" src="https://github.com/user-attachments/assets/68070331-c1c7-4921-b486-8ab1a0fedcbe" />
